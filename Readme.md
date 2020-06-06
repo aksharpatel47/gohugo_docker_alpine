@@ -12,5 +12,5 @@ The image assumes that the code for hugo
 site resides in the `/app` directory.
 
 You can either copy your hugo site into
-the `/app` directory bind your repository
+the `/app` directory or bind your site
 directory to the `/app` directory.
